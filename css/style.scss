@@ -1,0 +1,26 @@
+@font-face {
+    font-family: raleway_regular;
+    src: url(../font/raleway_regular.ttf);
+}
+
+@font-face {
+    font-family: raleway_medium;
+    src: url(../font/raleway_medium.ttf);
+}
+
+@font-face {
+    font-family: mediumItalic;
+    src: url(../font/raleway_mediumItalic.ttf);
+}
+
+.ralewayR {
+    font-family: 'raleway_regular', sans-serif;
+}
+
+.ralewayM{
+    font-family: 'raleway_medium', sans-serif;
+}
+
+.ralewayMI {
+    font-family: 'mediumItalic', sans-serif;
+}
